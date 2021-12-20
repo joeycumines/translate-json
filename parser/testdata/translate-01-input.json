@@ -1,0 +1,46 @@
+{
+  "description": "【中文版本】2021.10.10更新，kubernetes资源全面展示！包含K8S整体资源总览、微服务资源明细、Pod资源明细及K8S网络带宽，优化重要指标展示。https://github.com/starsliao/Prometheus",
+  "editable": true,
+  "gnetId": 13105,
+  "graphTooltip": 0,
+  "id": null,
+  "iteration": 1633873748245,
+  "links": [
+    {
+      "icon": "bolt",
+      "tags": [],
+      "targetBlank": true,
+      "title": "Update",
+      "tooltip": "更新当前仪表板",
+      "type": "link",
+      "url": "https://grafana.com/dashboards/13105",
+      "": "asd"
+    },
+    {
+      "$$hashKey": "object:831",
+      "icon": "question",
+      "tags": [
+        "node_exporter"
+      ],
+      "targetBlank": true,
+      "title": "GitHub",
+      "tooltip": "查看更多仪表板",
+      "type": "link",
+      "url": "https://github.com/starsliao/Prometheus"
+    },
+    {
+      "$$hashKey": "object:1091",
+      "asDropdown": true,
+      "icon": "external link",
+      "tags": [],
+      "targetBlank": true,
+      "type": "dashboards",
+      "": ""
+    }
+  ],
+  "wat": [
+    "查看更多仪表板",
+    "",
+    "pls!"
+  ]
+}
